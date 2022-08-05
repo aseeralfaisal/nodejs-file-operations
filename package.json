@@ -1,0 +1,21 @@
+{
+  "name": "read_csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.0.5",
+    "csv-parse": "^5.0.4",
+    "pg": "^8.7.3",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
